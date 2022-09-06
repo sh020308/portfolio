@@ -1,4 +1,4 @@
-package com.portfolio.practice.board;
+package com.portfolio.board;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
